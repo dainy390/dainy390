@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Resume]([[https://github.com/your-username/your-repo/raw/main/resume.png])
+![My Resume]([[[https://github.com/your-username/your-repo/raw/main/resume.png](https://github.com/dainy390/dainy390/blob/main/DAINY_RESUME.jpg)])
 
 <!--
 **dainy390/dainy390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
