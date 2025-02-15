@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![My Resume]([https://github.com/your-username/your-repo/raw/main/resume.png](https://drive.google.com/file/d/1wKYQ_NqVGOjOK7jbHQifPEx_3hnpnar0/view?usp=drive_link))
+
 <!--
 **dainy390/dainy390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
