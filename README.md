@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-## 📝 My Resume  
-![My Resume](https://github.com/dainy390/dainy390/raw/main/DAINY_RESUME.jpg)
+
 
 <!--
 **dainy390/dainy390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Dainy</h1>
+## 📝 My Resume  
+![My Resume](https://github.com/dainy390/dainy390/raw/main/DAINY_RESUME.jpg)
 <h3 align="center">A passionate fullstack development from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dainy390&label=Profile%20views&color=0e75b6&style=flat" alt="dainy390" /> </p>
 
