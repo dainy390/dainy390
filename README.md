@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Dainy</h1>
 
-<h3 align="center">A passionate fullstack development from India</h3>
+<h3 align="center">A passionate fullstack development</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dainy390&label=Profile%20views&color=0e75b6&style=flat" alt="dainy390" /> </p>
