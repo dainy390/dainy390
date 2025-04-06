@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there, I'm Dainy 👋
+
+I'm passionate about coding and have been honing my skills on [Coding Ninjas Code360](https://www.naukri.com/code360/profile/Dainy). Check out my profile to see my projects and achievements.
+
+![Coding Ninjas](https://your-image-url.com) <!-- Optional: Add an image or badge -->
+
 <h1 align="center">Hi 👋, I'm Dainy</h1>
 
 <h3 align="center">A passionate fullstack development</h3>
