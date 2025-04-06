@@ -3,12 +3,12 @@
 
 I'm passionate about coding and have been honing my skills on [Coding Ninjas Code360](https://www.naukri.com/code360/profile/Dainy). Check out my profile to see my projects and achievements.
 <a href="https://www.naukri.com/code360/profile/Dainy" target="_blank">
-  <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="80" style="margin-left: 10px;" />
+  <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="40" style="margin-left: 5px;" />
 </a>
 
 
 
-<!--
+
 **dainy390/dainy390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: dainychaudhary40@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 -🔭 I’m currently working as mentor at coding ninja 
 -🌱 I’m currently upskilling in fullstack
 -📫 How to reach me: dainychaudhary40@gmail.com
  <!-- Optional: Add an image or badge -->
 
-<h1 align="center">Hi 👋, I'm Dainy</h1>
+<!--<h1 align="center">Hi 👋, I'm Dainy</h1>
 
 <h3 align="center">A passionate fullstack development</h3>
-
+-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dainy390&label=Profile%20views&color=0e75b6&style=flat" alt="dainy390" /> </p>
 
