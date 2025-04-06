@@ -1,30 +1,27 @@
 <!--### Hi there 👋-->
 ## Hi there, I'm Dainy 👋
 
-I'm passionate about coding and have been honing my skills on [Coding Ninjas Code360](https://www.naukri.com/code360/profile/Dainy). Check out my profile to see my projects and achievements.
-<a href="https://www.naukri.com/code360/profile/Dainy" target="_blank">
-  <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="40" style="margin-left: 5px;" />
-</a>
+I'm passionate about coding and have been honing my skills on [Coding Ninjas Code360](https://www.naukri.com/code360/profile/Dainy).<a href="https://www.naukri.com/code360/profile/Dainy" target="_blank">
+  <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="20" style="margin-left: 2px;" />
+</a> Check out my profile to see my projects and achievements.
 
 
 
 
-**dainy390/dainy390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!--**dainy390/dainy390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working as mentor at coding ninja 
 - 🌱 I’m currently upskilling in fullstack 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about MERN
-- 📫 How to reach me: dainychaudhary40@gmail.com 
+- 📫 How to reach me: dainychaudhary40@gmail.com
+  <!--  👯 I’m looking to collaborate on ...
+<!-- 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
--🔭 I’m currently working as mentor at coding ninja 
--🌱 I’m currently upskilling in fullstack
--📫 How to reach me: dainychaudhary40@gmail.com
+-->
  <!-- Optional: Add an image or badge -->
 
 <!--<h1 align="center">Hi 👋, I'm Dainy</h1>
