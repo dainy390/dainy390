@@ -1,5 +1,11 @@
 <!--### Hi there 👋-->
+## Hi there, I'm Dainy 👋
 
+I'm passionate about coding and have been honing my skills on [Coding Ninjas Code360](https://www.naukri.com/code360/profile/Dainy). Check out my profile to see my projects and achievements.
+[![My Code360 Profile](https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg)](https://www.naukri.com/code360/profile/Dainy)
+<a href="https://www.naukri.com/code360/profile/Dainy" target="_blank">
+  <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="80" style="margin-left: 10px;" />
+</a>
 
 
 
@@ -17,19 +23,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working as mentor at coding ninja 
-🌱 I’m currently upskilling in fullstack
-📫 How to reach me: dainychaudhary40@gmail.com
-
-## Hi there, I'm Dainy 👋
-
-I'm passionate about coding and have been honing my skills on [Coding Ninjas Code360](https://www.naukri.com/code360/profile/Dainy). Check out my profile to see my projects and achievements.
-
-## 👋 Hi, I'm Dainy
-
-I'm passionate about coding and solving problems on Coding Ninjas.
-
-[![My Code360 Profile](https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg)](https://www.naukri.com/code360/profile/Dainy)
+-🔭 I’m currently working as mentor at coding ninja 
+-🌱 I’m currently upskilling in fullstack
+-📫 How to reach me: dainychaudhary40@gmail.com
  <!-- Optional: Add an image or badge -->
 
 <h1 align="center">Hi 👋, I'm Dainy</h1>
