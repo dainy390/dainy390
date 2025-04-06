@@ -2,7 +2,6 @@
 ## Hi there, I'm Dainy 👋
 
 I'm passionate about coding and have been honing my skills on [Coding Ninjas Code360](https://www.naukri.com/code360/profile/Dainy). Check out my profile to see my projects and achievements.
-[![My Code360 Profile](https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg)](https://www.naukri.com/code360/profile/Dainy)
 <a href="https://www.naukri.com/code360/profile/Dainy" target="_blank">
   <img src="https://ninjasfiles.s3.amazonaws.com/0000000000000723.jpg" alt="Coding Ninjas Logo" width="80" style="margin-left: 10px;" />
 </a>
